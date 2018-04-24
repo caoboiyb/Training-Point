@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+.login-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
